@@ -126,6 +126,32 @@ a.button-color{
     line-height: 60px;
     margin: 0;
 }
+.testimonial-section{
+    text-align: center;
+    background-image: url("images/shapes/client-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px;
+    color: #fff;
+
+}
+.testimonial-details h3{
+    font-size: 20px;
+    line-height: 30px;
+    width: 700px;
+    margin: auto;
+    padding-bottom: 80px;
+}
+.testimonial-details h2{
+    font-size: 30px;
+}
+.testimonial-details img{
+    width: 200px;
+    border-radius: 100px;
+    background: white;
+    border: 5px solid #FBA24F;
+
+}
 footer{
     background: black;
     text-align: center;
