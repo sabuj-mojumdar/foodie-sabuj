@@ -1,0 +1,143 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.top-banner{
+    padding: 100px;
+}
+.flexible-section{
+    display: flex;
+    width: 100%;
+}
+.half-width{
+    width: 50%;
+}
+.top-banner-left{
+    margin: auto;
+}
+.top-banner-left h1{
+    font-size: 50px;
+    color: #575757;
+}
+.top-banner-left span{
+    color: #FBA24F;
+}
+.top-banner-left p{
+    font-size: 20px;
+    color: #828282;
+    padding-bottom: 50px;
+}
+a.button-color{
+    background-image: linear-gradient(to right, #FBA24F, #FF1E1E);
+    padding: 20px 30px;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.top-banner-right img{
+    width: 100%;
+}
+.about-me{
+    background-image: url("images/shapes/about-me.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 0px;
+    padding-top: 50px;
+}
+.about-me-left{
+    text-align: center;
+}
+.about-me-left img{
+    width: 48%;
+}
+.about-me-right{
+    margin: auto;
+}
+.about-me-right h2{
+    font-size: 40px;
+    color: #707070;
+}
+.about-me-right p{
+    color: #707070;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 600;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+.my-recipies{
+    text-align: center;
+    padding: 50px 120px;
+}
+.my-recipies h1{
+    color: #707070;
+    font-size: 40px;
+}
+.my-recipies-p{
+    width: 650px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.flexible-section1{
+    display: flex;
+    gap: 60px;
+    width: 100%;
+    text-align: center;
+}
+.one-third-width{
+    width: 33.33%;
+}
+.recipies-details{
+    background: #fff;
+    box-shadow:  2px 1px 32px 1px rgba(70, 65, 65, 0.58);
+    padding: 15px;
+    border-radius: 20px;
+}
+.recipies-details h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.recipies-details h2, .recipies-details p{
+    text-align: left;
+}
+.one-third-width img{
+    border-radius: 20px;
+    width: 100%;
+}
+.subscriber-section{
+    text-align: center;
+    padding: 120px;
+}
+.flexible-section2{
+    display: flex;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 2px 1px 32px 1px rgba(201, 191, 191, 0.58);
+}
+.subscriber-details{
+    padding: 50px;
+}
+.subscriber-details h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 0;
+}
+footer{
+    background: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+footer h1{
+    color: grey;
+}
+footer span{
+    color: orange;
+}
+footer p{
+    color: grey;
+}
