@@ -140,6 +140,9 @@ a.button-color:hover{
     padding: 15px;
     border-radius: 20px;
 }
+.recipies-details img{
+    border-radius: 20px;
+}
 .recipies-details h2{
     font-size: 30px;
     font-weight: 700;
