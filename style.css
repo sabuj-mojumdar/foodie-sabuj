@@ -98,6 +98,7 @@ a.button-color:hover{
 }
 .about-me-right{
     margin: auto;
+    padding-bottom: 50px;
 }
 .about-me-right h2{
     font-size: 40px;
