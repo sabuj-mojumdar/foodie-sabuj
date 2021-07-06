@@ -104,9 +104,13 @@ a.button-color{
 .recipies-details h2, .recipies-details p{
     text-align: left;
 }
+.recipies-details p{
+    line-height: 20px;
+}
 .one-third-width img{
     border-radius: 20px;
     width: 100%;
+    height: 230px;
 }
 .subscriber-section{
     text-align: center;
